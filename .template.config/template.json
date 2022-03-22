@@ -1,7 +1,7 @@
 {
-  "author": "Mukesh Murugan",
+  "author": "Joseph Izang with thanks to Mukesh Murugan (original author)",
   "classifications": [],
-  "description": "An ASP.NET Core WebAPI Solution Template that is built with Loosely-Coupled and Inverted-Dependency / Onion Architecture along with various other essential integrations.",
+  "description": "An ASP.NET Core WebAPI Solution Template built with Loose Coupling, Inverted-Dependency and Onion Architecture along with essential integrations.",
   "name": "Clean Architecture WebAPI",
   "defaultName": "CleanArchitecture.WebApi",
   "identity": "CleanArchitecture.WebApi.CSharp",
