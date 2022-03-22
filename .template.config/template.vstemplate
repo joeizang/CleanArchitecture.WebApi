@@ -2,7 +2,7 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
   <TemplateData>
     <Name>Clean Architecture WebAPI</Name>
-    <Description>An ASP.NET Core WebAPI Solution Template that is built with Loosely-Coupled and Inverted-Dependency / Onion Architecture along with various other essential integrations.</Description>
+    <Description>An ASP.NET Core WebAPI Solution Template built with Loose Coupling, Inverted-Dependency and Onion Architecture with some essential integrations.</Description>
     <TemplateID>CleanArchitecture.WebApi.CSharp</TemplateID>
     <DefaultName>CleanArchitecture.WebApi</DefaultName>
     
